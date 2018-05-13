@@ -1,4 +1,4 @@
-# cpp datastructuren en algoritmen: opdracht 2
+# cpp datastructuren en algoritmen: opdracht 2  13 mei 2018
 
 Implementatie van de klasse synoniemenBeheer met bijbehorende grafische interface en een exceptieklasse. 
 De applicatie legt een collectie vast van woorden met bijbehorende synoniemen. Hierbij wordt gebruik gemaakt van klassen 
